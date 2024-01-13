@@ -3,5 +3,5 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nexaquora" alt="nexa Trophy"/>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumli404&show_icons=true&locale=en&layout=compact&theme=dark" alt="jumli404 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nexaquora4&show_icons=true&locale=en&layout=compact&theme=dark" alt="nexa Top Languages" />
 </p>
